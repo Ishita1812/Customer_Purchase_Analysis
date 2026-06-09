@@ -1,2 +1,2 @@
 # Customer_Purchase_Analysis
-An end-to-end data analytics project analyzing customer shopping behavior using Python, SQL, and Power BI to uncover insights on customer segments, purchasing patterns, discounts, subscriptions and sales trends.
+An end-to-end data analytics project that transforms raw customer transaction data into actionable business insights. The project leverages Pandas for data cleaning and feature engineering, MySQL for business-focused analysis and Power BI for interactive dashboarding. Key analyses include customer segmentation, revenue trends, subscription behavior, discount effectiveness and product performance, enabling data-driven decision-making.
