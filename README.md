@@ -52,4 +52,5 @@ Supported optimization of discount strategies to balance sales and profitability
 Highlighted top-performing product categories for inventory and marketing decisions.
 
 10. **Screenshots/Demos** :
-Dashboard image: - ![Dashboard_Preview](https://github.com/Ishita1812/Customer_Purchase_Analysis/blob/main/Cuatomer_Purchase_Analysis_Dashboard_image.png)
+Dashboard image: -
+![Dashboard_Preview](https://github.com/Ishita1812/Customer_Purchase_Analysis/blob/main/Cuatomer_Purchase_Analysis_Dashboard_image.png)
