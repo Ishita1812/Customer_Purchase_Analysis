@@ -1,4 +1,4 @@
-# Customer Purchase Analysis Dashboard --
+# Customer Purchase Analysis Dashboard
 
 1. **Project Title / Headline** :
 Analyzing 3,900+ retail transactions to uncover customer behavior, revenue drivers and business growth opportunities.
