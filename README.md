@@ -53,4 +53,3 @@ Highlighted top-performing product categories for inventory and marketing decisi
 
 10. **Screenshots/Demos** :
 Dashboard image: - ![Alt_text](https://github.com/Ishita1812/Customer_Purchase_Analysis/blob/main/Cuatomer_Purchase_Analysis_Dashboard_image.png).
-Example: ![Dashboard_Preview](https://github.com/Ishita1812/Customer_Purchase_Analysis/blob/main/Cuatomer_Purchase_Analysis_Dashboard_image.png)
